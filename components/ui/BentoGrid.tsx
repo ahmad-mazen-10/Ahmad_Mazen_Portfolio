@@ -1,9 +1,6 @@
 'use client'
-import dynamic from 'next/dynamic';
-
 import { cn } from "@/utils/cn";
 import { BackgroundGradientAnimation } from "./GradientBg";
-import { Globe } from "./Globe";
 import GridGlobe from "./GridGlobe";
 import { useState } from "react";
 import MagicButton from "./MagicButton";
