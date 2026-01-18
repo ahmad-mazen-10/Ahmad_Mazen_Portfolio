@@ -167,7 +167,7 @@ export const workExperience = [
     desc: "Leading the tasks and mentoring junior developers",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
-    view:""
+    view:"https://www.linkedin.com/posts/ahmadmazen060_mazen-supevisor-catabrreloded-activity-7382981689074958337-mAtN"
   },
   {
     id: 4,
